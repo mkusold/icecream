@@ -1,0 +1,17 @@
+{
+  "name": "icecream",
+  "version": "1.0.0",
+  "description": "put it in a cone!",
+  "main": "main.js",
+  "preferGlobal": true,
+  "bin": "main.js",
+  "scripts": {
+    "build": "pkg ."
+  },
+  "author": "M Kusold",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "inquirer": "^6.5.1"
+  }
+}
